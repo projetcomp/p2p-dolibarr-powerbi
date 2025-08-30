@@ -14,5 +14,5 @@ Ce dépôt contient les éléments du projet P2P : exports depuis Dolibarr, le f
 - `rapport.pdf` — tableau de bord.
 - `demo.gif` — animation/démo courte du tableau de bord interactif.
 - `p2p-dolibarr-powerbi.pbix` — fichier Power BI Desktop.
-- `facture fournisseur.csv` — export factures utilisé.
-- `règlement fournisseur.csv` — export règlements utilisé.
+- `facture fournisseur.csv` — export factures.
+- `règlement fournisseur.csv` — export règlements.
